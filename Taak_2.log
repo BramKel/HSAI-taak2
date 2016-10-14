@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.10.14)  14 OCT 2016 21:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.10.14)  14 OCT 2016 22:12
 entering extended mode
 **./Taak_2.tex
 (Taak_2.tex
@@ -161,59 +161,75 @@ Overfull \hbox (0.71172pt too wide) in paragraph at lines 53--54
 [1]
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no   in font cmr10!
- [2]
-Missing character: There is no Ã in font cmr10!
-Missing character: There is no   in font cmr10!
- <Bram_ScreenshotGH1.png, id=17, 1204.5pt x 647.41875pt>
+ [2] <Bram_ScreenshotGH1.png, id=18, 1204.5pt x 647.41875pt>
 File: Bram_ScreenshotGH1.png Graphic file (type png)
 
 <use Bram_ScreenshotGH1.png>
-Package pdftex.def Info: Bram_ScreenshotGH1.png used on input line 72.
+Package pdftex.def Info: Bram_ScreenshotGH1.png used on input line 75.
 (pdftex.def)             Requested size: 360.0pt x 193.49608pt.
 
-<Bram_ScreenshotSkype1.png, id=18, 1445.4pt x 782.925pt>
+<Bram_ScreenshotSkype1.png, id=19, 1445.4pt x 782.925pt>
 File: Bram_ScreenshotSkype1.png Graphic file (type png)
 
 <use Bram_ScreenshotSkype1.png>
-Package pdftex.def Info: Bram_ScreenshotSkype1.png used on input line 78.
+Package pdftex.def Info: Bram_ScreenshotSkype1.png used on input line 81.
 (pdftex.def)             Requested size: 360.0pt x 195.00203pt.
 
-<Bram_ScreenshotGH2.png, id=20, 342.5297pt x 216.05719pt>
+<Bram_ScreenshotGH2.png, id=21, 342.5297pt x 216.05719pt>
 File: Bram_ScreenshotGH2.png Graphic file (type png)
 
 <use Bram_ScreenshotGH2.png>
-Package pdftex.def Info: Bram_ScreenshotGH2.png used on input line 88.
+Package pdftex.def Info: Bram_ScreenshotGH2.png used on input line 91.
 (pdftex.def)             Requested size: 251.9989pt x 158.9567pt.
 
-<Bram_ScreenshotSkype2.png, id=21, 320.69812pt x 129.48375pt>
+<Bram_ScreenshotSkype2.png, id=22, 320.69812pt x 129.48375pt>
 File: Bram_ScreenshotSkype2.png Graphic file (type png)
 
 <use Bram_ScreenshotSkype2.png>
-Package pdftex.def Info: Bram_ScreenshotSkype2.png used on input line 94.
+Package pdftex.def Info: Bram_ScreenshotSkype2.png used on input line 97.
 (pdftex.def)             Requested size: 251.9989pt x 101.74768pt.
  [3] [4 <./Bram_ScreenshotGH1.png> <./Bram_ScreenshotSkype1.png>] [5 <./Bram_Sc
 reenshotGH2.png> <./Bram_ScreenshotSkype2.png>]
+<Bram_ScreenshotSkype3.png, id=35, 79.04532pt x 47.42719pt>
+File: Bram_ScreenshotSkype3.png Graphic file (type png)
+
+<use Bram_ScreenshotSkype3.png>
+Package pdftex.def Info: Bram_ScreenshotSkype3.png used on input line 113.
+(pdftex.def)             Requested size: 143.9978pt x 86.41312pt.
+
+<Bram_ScreenshotGH3.png, id=36, 74.52844pt x 28.60687pt>
+File: Bram_ScreenshotGH3.png Graphic file (type png)
+
+<use Bram_ScreenshotGH3.png>
+Package pdftex.def Info: Bram_ScreenshotGH3.png used on input line 119.
+(pdftex.def)             Requested size: 143.9978pt x 55.28117pt.
+ [6 <./Bram_ScreenshotSkype3.png>]
+Overfull \hbox (5.85211pt too wide) in paragraph at lines 126--131
+\OT1/cmr/m/n/10.95 Als men als bron-domein de mo-biele tele-foon neemt zijn er 
+nog meer metaforen.
+ []
+
+[7 <./Bram_ScreenshotGH3.png>]
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no   in font cmr10!
-
-[6] [7] (Taak_2.aux) ) 
+ [8] [9] (Taak_2.aux) ) 
 Here is how much of TeX's memory you used:
- 1593 strings out of 493334
- 22757 string characters out of 3139251
- 83852 words of memory out of 3000000
- 5121 multiletter control sequences out of 15000+200000
+ 1605 strings out of 493334
+ 23065 string characters out of 3139251
+ 83868 words of memory out of 3000000
+ 5131 multiletter control sequences out of 15000+200000
  10054 words of font info for 35 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,6n,25p,1313b,256s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx1
-2.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><
-C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Progra
-m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Taak_2.pdf (8 pages, 541711 bytes).
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx
+12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb>
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Progr
+am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on Taak_2.pdf (10 pages, 551057 bytes).
 PDF statistics:
- 62 PDF objects out of 1000 (max. 8388607)
+ 72 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
