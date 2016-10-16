@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.10.14)  16 OCT 2016 17:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.10.14)  16 OCT 2016 17:14
 entering extended mode
 **./Taak_2.tex
 (Taak_2.tex
@@ -65,37 +65,7 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@floatcapt=\box27
 ) (Taak_2.aux
 
-! LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.6 <
-     <<<<<< HEAD
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
 LaTeX Warning: Label `fig:callicons' multiply defined.
-
-
-LaTeX Warning: Label `fig:BeginHangouts' multiply defined.
-
-
-LaTeX Warning: Label `fig:BeginSkype' multiply defined.
-
-
-LaTeX Warning: Label `fig:VerzoekHangouts' multiply defined.
-
-
-LaTeX Warning: Label `fig:VerzoekSkype' multiply defined.
-
-
-LaTeX Warning: Label `fig:SoortSkype' multiply defined.
-
-
-LaTeX Warning: Label `fig:SoortHangouts' multiply defined.
 
 )
 \openout1 = `Taak_2.aux'.
@@ -169,9 +139,7 @@ Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
-) [1
-
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+)
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 37.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -179,71 +147,73 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 37.
 
-<uhasselt-logo.jpg, id=6, 1185.42876pt x 342.27875pt>
+<uhasselt-logo.jpg, id=1, 1185.42876pt x 342.27875pt>
 File: uhasselt-logo.jpg Graphic file (type jpg)
  <use uhasselt-logo.jpg>
 Package pdftex.def Info: uhasselt-logo.jpg used on input line 48.
 (pdftex.def)             Requested size: 85.35826pt x 24.64613pt.
 
-[1 <./uhasselt-logo.jpg>]
+[1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./uhasselt-logo.jpg>]
 Overfull \hbox (0.71172pt too wide) in paragraph at lines 53--54
 \OT1/cmr/m/n/10.95 Voor het vak Hu-mane en So-ciale As-pecten van de In-for-mat
 -ica is ons gevraagd
  []
 
-[1] [2] <Niels_HTooltips.jpg, id=21, 82.80937pt x 48.18pt>
+[1] [2] <Niels_HTooltips.jpg, id=18, 82.80937pt x 48.18pt>
 File: Niels_HTooltips.jpg Graphic file (type jpg)
 
 <use Niels_HTooltips.jpg>
 Package pdftex.def Info: Niels_HTooltips.jpg used on input line 64.
 (pdftex.def)             Requested size: 90.0pt x 52.36589pt.
- <Niels_groep.png, id=22, 99.37125pt x 45.16875pt>
+ <Niels_groep.png, id=19, 99.37125pt x 45.16875pt>
 File: Niels_groep.png Graphic file (type png)
 
 <use Niels_groep.png>
 Package pdftex.def Info: Niels_groep.png used on input line 70.
 (pdftex.def)             Requested size: 90.0pt x 40.91063pt.
 
-<Niels_SkUitnodiging.png, id=23, 287.57437pt x 116.68594pt>
+<Niels_SkUitnodiging.png, id=20, 287.57437pt x 116.68594pt>
 File: Niels_SkUitnodiging.png Graphic file (type png)
 
 <use Niels_SkUitnodiging.png>
 Package pdftex.def Info: Niels_SkUitnodiging.png used on input line 78.
 (pdftex.def)             Requested size: 288.0011pt x 116.8619pt.
  [3 <./Niels_HTooltips.jpg> <./Niels_groep.png> <./Niels_SkUitnodiging.png>]
-<Niels_Uitnodiging.png, id=27, 289.08pt x 194.22563pt>
+<Niels_Uitnodiging.png, id=24, 289.08pt x 194.22563pt>
 File: Niels_Uitnodiging.png Graphic file (type png)
 
 <use Niels_Uitnodiging.png>
 Package pdftex.def Info: Niels_Uitnodiging.png used on input line 85.
 (pdftex.def)             Requested size: 251.9989pt x 169.30981pt.
 
-<Niels_icoontjes.png, id=28, 299.61937pt x 72.27pt>
+<Niels_icoontjes.png, id=25, 299.61937pt x 72.27pt>
 File: Niels_icoontjes.png Graphic file (type png)
  <use Niels_icoontjes.png>
 Package pdftex.def Info: Niels_icoontjes.png used on input line 94.
 (pdftex.def)             Requested size: 180.0pt x 43.41745pt.
 
-<Niels_afbeelding.png, id=29, 21.83156pt x 22.58438pt>
+<Niels_afbeelding.png, id=26, 21.83156pt x 22.58438pt>
 File: Niels_afbeelding.png Graphic file (type png)
 
 <use Niels_afbeelding.png>
 Package pdftex.def Info: Niels_afbeelding.png used on input line 100.
 (pdftex.def)             Requested size: 36.0022pt x 37.24915pt.
- <Niels_bijlage.png, id=30, 20.32594pt x 24.09pt>
+ <Niels_bijlage.png, id=27, 20.32594pt x 24.09pt>
 File: Niels_bijlage.png Graphic file (type png)
 
 <use Niels_bijlage.png>
 Package pdftex.def Info: Niels_bijlage.png used on input line 106.
 (pdftex.def)             Requested size: 36.0022pt x 42.6727pt.
  [4 <./Niels_Uitnodiging.png> <./Niels_icoontjes.png>]
-<Niels_SResize.png, id=34, 286.06876pt x 45.92157pt>
+<Niels_SResize.png, id=31, 286.06876pt x 45.92157pt>
 File: Niels_SResize.png Graphic file (type png)
  <use Niels_SResize.png>
 Package pdftex.def Info: Niels_SResize.png used on input line 116.
 (pdftex.def)             Requested size: 288.0011pt x 46.23256pt.
 
-<Niels_SConstraint.png, id=35, 243.15843pt x 45.16875pt>
+<Niels_SConstraint.png, id=32, 243.15843pt x 45.16875pt>
 File: Niels_SConstraint.png Graphic file (type png)
 
 <use Niels_SConstraint.png>
@@ -251,28 +221,28 @@ Package pdftex.def Info: Niels_SConstraint.png used on input line 124.
 (pdftex.def)             Requested size: 198.0011pt x 36.78014pt.
  [5 <./Niels_afbeelding.png> <./Niels_bijlage.png> <./Niels_SResize.png>] [6 <.
 /Niels_SConstraint.png>]
-<Bram_ScreenshotGH1.png, id=43, 1204.5pt x 647.41875pt>
+<Bram_ScreenshotGH1.png, id=40, 1204.5pt x 647.41875pt>
 File: Bram_ScreenshotGH1.png Graphic file (type png)
 
 <use Bram_ScreenshotGH1.png>
 Package pdftex.def Info: Bram_ScreenshotGH1.png used on input line 144.
 (pdftex.def)             Requested size: 360.0pt x 193.49608pt.
 
-<Bram_ScreenshotSkype1.png, id=44, 1445.4pt x 782.925pt>
+<Bram_ScreenshotSkype1.png, id=41, 1445.4pt x 782.925pt>
 File: Bram_ScreenshotSkype1.png Graphic file (type png)
 
 <use Bram_ScreenshotSkype1.png>
 Package pdftex.def Info: Bram_ScreenshotSkype1.png used on input line 150.
 (pdftex.def)             Requested size: 360.0pt x 195.00203pt.
 
-<Bram_ScreenshotGH2.png, id=46, 342.5297pt x 216.05719pt>
+<Bram_ScreenshotGH2.png, id=43, 342.5297pt x 216.05719pt>
 File: Bram_ScreenshotGH2.png Graphic file (type png)
 
 <use Bram_ScreenshotGH2.png>
 Package pdftex.def Info: Bram_ScreenshotGH2.png used on input line 160.
 (pdftex.def)             Requested size: 251.9989pt x 158.9567pt.
 
-<Bram_ScreenshotSkype2.png, id=47, 320.69812pt x 129.48375pt>
+<Bram_ScreenshotSkype2.png, id=44, 320.69812pt x 129.48375pt>
 File: Bram_ScreenshotSkype2.png Graphic file (type png)
 
 <use Bram_ScreenshotSkype2.png>
@@ -280,14 +250,14 @@ Package pdftex.def Info: Bram_ScreenshotSkype2.png used on input line 166.
 (pdftex.def)             Requested size: 251.9989pt x 101.74768pt.
  [7] [8 <./Bram_ScreenshotGH1.png> <./Bram_ScreenshotSkype1.png>] [9 <./Bram_Sc
 reenshotGH2.png> <./Bram_ScreenshotSkype2.png>]
-<Bram_ScreenshotSkype3.png, id=60, 79.04532pt x 47.42719pt>
+<Bram_ScreenshotSkype3.png, id=57, 79.04532pt x 47.42719pt>
 File: Bram_ScreenshotSkype3.png Graphic file (type png)
 
 <use Bram_ScreenshotSkype3.png>
 Package pdftex.def Info: Bram_ScreenshotSkype3.png used on input line 182.
 (pdftex.def)             Requested size: 143.9978pt x 86.41312pt.
 
-<Bram_ScreenshotGH3.png, id=61, 74.52844pt x 28.60687pt>
+<Bram_ScreenshotGH3.png, id=58, 74.52844pt x 28.60687pt>
 File: Bram_ScreenshotGH3.png Graphic file (type png)
 
 <use Bram_ScreenshotGH3.png>
@@ -310,7 +280,7 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  1658 strings out of 493334
  24216 string characters out of 3139251
- 85009 words of memory out of 3000000
+ 84979 words of memory out of 3000000
  5175 multiletter control sequences out of 15000+200000
  10054 words of font info for 35 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -321,9 +291,9 @@ les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiK
 TeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/f
 onts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
 1/public/amsfonts/cm/cmti12.pfb>
-Output written on Taak_2.pdf (15 pages, 645931 bytes).
+Output written on Taak_2.pdf (14 pages, 644920 bytes).
 PDF statistics:
- 97 PDF objects out of 1000 (max. 8388607)
+ 94 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  81 words of extra memory for PDF output out of 10000 (max. 10000000)
 
