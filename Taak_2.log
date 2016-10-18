@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.10.5)  18 OCT 2016 13:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.10.5)  18 OCT 2016 13:17
 entering extended mode
 **Taak_2.tex
 (Taak_2.tex
@@ -64,9 +64,6 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks16
 \@floatcapt=\box27
 ) (Taak_2.aux
-
-LaTeX Warning: Label `fig:callicons' multiply defined.
-
 
 LaTeX Warning: Label `fig:HChat' multiply defined.
 
@@ -226,76 +223,72 @@ nog meer metaforen.
  []
 
 [11 <./Bram_ScreenshotGH3.png>]
-Missing character: There is no Ã in font cmr10!
-Missing character: There is no   in font cmr10!
-
 <Dylan_HNieuwGesprek.png, id=67, 412.54124pt x 35.53275pt>
 File: Dylan_HNieuwGesprek.png Graphic file (type png)
 
 <use Dylan_HNieuwGesprek.png>
-Package pdftex.def Info: Dylan_HNieuwGesprek.png used on input line 211.
+Package pdftex.def Info: Dylan_HNieuwGesprek.png used on input line 210.
 (pdftex.def)             Requested size: 323.9978pt x 27.9068pt.
 
 <Dylan_SZoeken.png, id=68, 178.266pt x 80.7015pt>
 File: Dylan_SZoeken.png Graphic file (type png)
  <use Dylan_SZoeken.png>
-Package pdftex.def Info: Dylan_SZoeken.png used on input line 217.
+Package pdftex.def Info: Dylan_SZoeken.png used on input line 216.
 (pdftex.def)             Requested size: 143.9978pt x 65.193pt.
 
 <Dylan_STips.png, id=69, 446.8695pt x 199.34476pt>
 File: Dylan_STips.png Graphic file (type png)
  <use Dylan_STips.png>
-Package pdftex.def Info: Dylan_STips.png used on input line 223.
+Package pdftex.def Info: Dylan_STips.png used on input line 222.
 (pdftex.def)             Requested size: 323.9978pt x 144.53796pt.
 
 <Dylan_SFeedbackGesprek.png, id=70, 298.86656pt x 149.8097pt>
 File: Dylan_SFeedbackGesprek.png Graphic file (type png)
 
 <use Dylan_SFeedbackGesprek.png>
-Package pdftex.def Info: Dylan_SFeedbackGesprek.png used on input line 231.
+Package pdftex.def Info: Dylan_SFeedbackGesprek.png used on input line 230.
 (pdftex.def)             Requested size: 143.9978pt x 72.17984pt.
 
 <Dylan_HOnline.png, id=71, 36.135pt x 34.32825pt>
 File: Dylan_HOnline.png Graphic file (type png)
  <use Dylan_HOnline.png>
-Package pdftex.def Info: Dylan_HOnline.png used on input line 237.
+Package pdftex.def Info: Dylan_HOnline.png used on input line 236.
 (pdftex.def)             Requested size: 36.0022pt x 34.204pt.
 
 <Dylan_SStatus.png, id=72, 198.7425pt x 122.25674pt>
 File: Dylan_SStatus.png Graphic file (type png)
  <use Dylan_SStatus.png>
-Package pdftex.def Info: Dylan_SStatus.png used on input line 243.
+Package pdftex.def Info: Dylan_SStatus.png used on input line 242.
 (pdftex.def)             Requested size: 143.9978pt x 88.58257pt.
 
-[12 <./Dylan_HNieuwGesprek.png>]
-<Dylan_SHIcoontjes.png, id=78, 383.18156pt x 127.22531pt>
+[12 <./Dylan_HNieuwGesprek.png> <./Dylan_SZoeken.png>]
+<Dylan_SHIcoontjes.png, id=79, 383.18156pt x 127.22531pt>
 File: Dylan_SHIcoontjes.png Graphic file (type png)
 
 <use Dylan_SHIcoontjes.png>
-Package pdftex.def Info: Dylan_SHIcoontjes.png used on input line 251.
+Package pdftex.def Info: Dylan_SHIcoontjes.png used on input line 250.
 (pdftex.def)             Requested size: 143.9978pt x 47.81032pt.
- [13 <./Dylan_SZoeken.png> <./Dylan_STips.png>]
-[14 <./Dylan_SFeedbackGesprek.png> <./Dylan_HOnline.png> <./Dylan_SStatus.png>]
+ [13 <./Dylan_STips.png>] [14 <./Dylan_SFeedbackGesprek.png> <./Dylan_HOnline.p
+ng> <./Dylan_SStatus.png>]
 <Dylan_HChat.png, id=90, 160.80075pt x 78.2925pt>
 File: Dylan_HChat.png Graphic file (type png)
  <use Dylan_HChat.png>
-Package pdftex.def Info: Dylan_HChat.png used on input line 259.
+Package pdftex.def Info: Dylan_HChat.png used on input line 258.
 (pdftex.def)             Requested size: 143.9978pt x 70.11255pt.
-
-[15 <./Dylan_SHIcoontjes.png> <./Dylan_HChat.png>]
 File: Dylan_HChat.png Graphic file (type png)
- <use Dylan_HChat.png>
-Package pdftex.def Info: Dylan_HChat.png used on input line 269.
-(pdftex.def)             Requested size: 143.9978pt x 70.11255pt.
 
-<Dylan_SHMetafoor.png, id=95, 184.43906pt x 115.93312pt>
+<use Dylan_HChat.png>
+Package pdftex.def Info: Dylan_HChat.png used on input line 268.
+(pdftex.def)             Requested size: 143.9978pt x 70.11255pt.
+ <Dylan_SHMetafoor.png, id=91, 184.43906pt x 115.93312pt>
 File: Dylan_SHMetafoor.png Graphic file (type png)
 
 <use Dylan_SHMetafoor.png>
-Package pdftex.def Info: Dylan_SHMetafoor.png used on input line 275.
+Package pdftex.def Info: Dylan_SHMetafoor.png used on input line 274.
 (pdftex.def)             Requested size: 143.9978pt x 90.51237pt.
- [16]
-Overfull \hbox (7.94066pt too wide) in paragraph at lines 284--285
+ [15 <./Dylan_SHIcoontjes.png> <./Dylan_HChat.png>]
+[16 <./Dylan_SHMetafoor.png>]
+Overfull \hbox (7.94066pt too wide) in paragraph at lines 283--284
 \OT1/cmr/m/n/10.95 stand-pun-ten samen-bren-gen in deze con-clusie. In deze par
 a-graaf wordt dezelfde
  []
@@ -304,26 +297,26 @@ a-graaf wordt dezelfde
 File: Samen_SkypeTabblad.png Graphic file (type png)
 
 <use Samen_SkypeTabblad.png>
-Package pdftex.def Info: Samen_SkypeTabblad.png used on input line 291.
+Package pdftex.def Info: Samen_SkypeTabblad.png used on input line 290.
 (pdftex.def)             Requested size: 143.9978pt x 89.66803pt.
 
 <Samen_HangoutsNew.png, id=100, 499.8675pt x 97.86563pt>
 File: Samen_HangoutsNew.png Graphic file (type png)
 
 <use Samen_HangoutsNew.png>
-Package pdftex.def Info: Samen_HangoutsNew.png used on input line 301.
+Package pdftex.def Info: Samen_HangoutsNew.png used on input line 300.
 (pdftex.def)             Requested size: 143.9978pt x 28.19214pt.
- [17 <./Dylan_SHMetafoor.png>] [18 <./Samen_SkypeTabblad.png> <./Samen_Hangouts
-New.png>] [19] [20] (Taak_2.aux)
+ [17] [18 <./Samen_SkypeTabblad.png> <./Samen_HangoutsNew.png>] [19] (Taak_2.au
+x)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 1365 strings out of 493698
- 19476 string characters out of 3141994
- 74738 words of memory out of 3000000
- 4697 multiletter control sequences out of 15000+200000
+ 1366 strings out of 493698
+ 19488 string characters out of 3141994
+ 76746 words of memory out of 3000000
+ 4698 multiletter control sequences out of 15000+200000
  10054 words of font info for 35 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  27i,6n,19p,1479b,252s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -333,9 +326,9 @@ Here is how much of TeX's memory you used:
 /Program Files/LaTeX/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Pr
 ogram Files/LaTeX/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Progr
 am Files/LaTeX/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Taak_2.pdf (21 pages, 749867 bytes).
+Output written on Taak_2.pdf (20 pages, 749689 bytes).
 PDF statistics:
- 136 PDF objects out of 1000 (max. 8388607)
+ 133 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  136 words of extra memory for PDF output out of 10000 (max. 10000000)
 
