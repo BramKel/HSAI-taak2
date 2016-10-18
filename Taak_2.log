@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.10.5)  18 OCT 2016 15:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.10.5)  18 OCT 2016 15:46
 entering extended mode
 **Taak_2.tex
 (Taak_2.tex
@@ -105,213 +105,216 @@ Package pdftex.def Info: uhasselt-logo.jpg used on input line 48.
 (pdftex.def)             Requested size: 85.35826pt x 24.64613pt.
  [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./uhasselt-logo.jpg>]
-Overfull \hbox (0.71172pt too wide) in paragraph at lines 53--54
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./uhasselt-logo.jpg>] (Ta
+ak_2.toc)
+\tf@toc=\write3
+ [1]
+Overfull \hbox (0.71172pt too wide) in paragraph at lines 55--56
 \OT1/cmr/m/n/10.95 Voor het vak Hu-mane en So-ciale As-pecten van de In-for-mat
 -ica is ons gevraagd
  []
 
-[1] [2] <Niels_HTooltips.jpg, id=18, 82.80937pt x 48.18pt>
+[2] [3] <Niels_HTooltips.jpg, id=21, 82.80937pt x 48.18pt>
 File: Niels_HTooltips.jpg Graphic file (type jpg)
 
 <use Niels_HTooltips.jpg>
-Package pdftex.def Info: Niels_HTooltips.jpg used on input line 64.
+Package pdftex.def Info: Niels_HTooltips.jpg used on input line 66.
 (pdftex.def)             Requested size: 90.0pt x 52.36589pt.
- <Niels_groep.png, id=19, 99.37125pt x 45.16875pt>
+ <Niels_groep.png, id=22, 99.37125pt x 45.16875pt>
 File: Niels_groep.png Graphic file (type png)
 
 <use Niels_groep.png>
-Package pdftex.def Info: Niels_groep.png used on input line 70.
+Package pdftex.def Info: Niels_groep.png used on input line 72.
 (pdftex.def)             Requested size: 90.0pt x 40.91063pt.
 
-<Niels_SkUitnodiging.png, id=20, 287.57437pt x 116.68594pt>
+<Niels_SkUitnodiging.png, id=23, 287.57437pt x 116.68594pt>
 File: Niels_SkUitnodiging.png Graphic file (type png)
 
 <use Niels_SkUitnodiging.png>
-Package pdftex.def Info: Niels_SkUitnodiging.png used on input line 78.
+Package pdftex.def Info: Niels_SkUitnodiging.png used on input line 80.
 (pdftex.def)             Requested size: 288.0011pt x 116.8619pt.
- [3 <./Niels_HTooltips.jpg> <./Niels_groep.png> <./Niels_SkUitnodiging.png>]
-<Niels_Uitnodiging.png, id=24, 289.08pt x 194.22563pt>
+ [4 <./Niels_HTooltips.jpg> <./Niels_groep.png> <./Niels_SkUitnodiging.png>]
+<Niels_Uitnodiging.png, id=27, 289.08pt x 194.22563pt>
 File: Niels_Uitnodiging.png Graphic file (type png)
 
 <use Niels_Uitnodiging.png>
-Package pdftex.def Info: Niels_Uitnodiging.png used on input line 85.
+Package pdftex.def Info: Niels_Uitnodiging.png used on input line 87.
 (pdftex.def)             Requested size: 251.9989pt x 169.30981pt.
 
-<Niels_icoontjes.png, id=25, 299.61937pt x 72.27pt>
+<Niels_icoontjes.png, id=28, 299.61937pt x 72.27pt>
 File: Niels_icoontjes.png Graphic file (type png)
  <use Niels_icoontjes.png>
-Package pdftex.def Info: Niels_icoontjes.png used on input line 94.
+Package pdftex.def Info: Niels_icoontjes.png used on input line 96.
 (pdftex.def)             Requested size: 180.0pt x 43.41745pt.
 
-<Niels_afbeelding.png, id=26, 21.83156pt x 22.58438pt>
+<Niels_afbeelding.png, id=29, 21.83156pt x 22.58438pt>
 File: Niels_afbeelding.png Graphic file (type png)
 
 <use Niels_afbeelding.png>
-Package pdftex.def Info: Niels_afbeelding.png used on input line 100.
+Package pdftex.def Info: Niels_afbeelding.png used on input line 102.
 (pdftex.def)             Requested size: 36.0022pt x 37.24915pt.
- <Niels_bijlage.png, id=27, 20.32594pt x 24.09pt>
+ <Niels_bijlage.png, id=30, 20.32594pt x 24.09pt>
 File: Niels_bijlage.png Graphic file (type png)
 
 <use Niels_bijlage.png>
-Package pdftex.def Info: Niels_bijlage.png used on input line 106.
+Package pdftex.def Info: Niels_bijlage.png used on input line 108.
 (pdftex.def)             Requested size: 36.0022pt x 42.6727pt.
- [4 <./Niels_Uitnodiging.png> <./Niels_icoontjes.png>]
-<Niels_SResize.png, id=31, 286.06876pt x 45.92157pt>
+ [5 <./Niels_Uitnodiging.png> <./Niels_icoontjes.png>]
+<Niels_SResize.png, id=34, 286.06876pt x 45.92157pt>
 File: Niels_SResize.png Graphic file (type png)
  <use Niels_SResize.png>
-Package pdftex.def Info: Niels_SResize.png used on input line 116.
+Package pdftex.def Info: Niels_SResize.png used on input line 118.
 (pdftex.def)             Requested size: 288.0011pt x 46.23256pt.
 
-<Niels_SConstraint.png, id=32, 243.15843pt x 45.16875pt>
+<Niels_SConstraint.png, id=35, 243.15843pt x 45.16875pt>
 File: Niels_SConstraint.png Graphic file (type png)
 
 <use Niels_SConstraint.png>
-Package pdftex.def Info: Niels_SConstraint.png used on input line 124.
+Package pdftex.def Info: Niels_SConstraint.png used on input line 126.
 (pdftex.def)             Requested size: 198.0011pt x 36.78014pt.
- [5 <./Niels_afbeelding.png> <./Niels_bijlage.png> <./Niels_SResize.png>] [6 <.
+ [6 <./Niels_afbeelding.png> <./Niels_bijlage.png> <./Niels_SResize.png>] [7 <.
 /Niels_SConstraint.png>]
-<Bram_ScreenshotGH1.png, id=40, 1204.5pt x 647.41875pt>
+<Bram_ScreenshotGH1.png, id=43, 1204.5pt x 647.41875pt>
 File: Bram_ScreenshotGH1.png Graphic file (type png)
 
 <use Bram_ScreenshotGH1.png>
-Package pdftex.def Info: Bram_ScreenshotGH1.png used on input line 144.
+Package pdftex.def Info: Bram_ScreenshotGH1.png used on input line 146.
 (pdftex.def)             Requested size: 360.0pt x 193.49608pt.
 
-<Bram_ScreenshotSkype1.png, id=41, 1445.4pt x 782.925pt>
+<Bram_ScreenshotSkype1.png, id=44, 1445.4pt x 782.925pt>
 File: Bram_ScreenshotSkype1.png Graphic file (type png)
 
 <use Bram_ScreenshotSkype1.png>
-Package pdftex.def Info: Bram_ScreenshotSkype1.png used on input line 150.
+Package pdftex.def Info: Bram_ScreenshotSkype1.png used on input line 152.
 (pdftex.def)             Requested size: 360.0pt x 195.00203pt.
 
-<Bram_ScreenshotGH2.png, id=43, 342.5297pt x 216.05719pt>
+<Bram_ScreenshotGH2.png, id=46, 342.5297pt x 216.05719pt>
 File: Bram_ScreenshotGH2.png Graphic file (type png)
 
 <use Bram_ScreenshotGH2.png>
-Package pdftex.def Info: Bram_ScreenshotGH2.png used on input line 160.
+Package pdftex.def Info: Bram_ScreenshotGH2.png used on input line 162.
 (pdftex.def)             Requested size: 251.9989pt x 158.9567pt.
 
-<Bram_ScreenshotSkype2.png, id=44, 320.69812pt x 129.48375pt>
+<Bram_ScreenshotSkype2.png, id=47, 320.69812pt x 129.48375pt>
 File: Bram_ScreenshotSkype2.png Graphic file (type png)
 
 <use Bram_ScreenshotSkype2.png>
-Package pdftex.def Info: Bram_ScreenshotSkype2.png used on input line 166.
+Package pdftex.def Info: Bram_ScreenshotSkype2.png used on input line 168.
 (pdftex.def)             Requested size: 251.9989pt x 101.74768pt.
- [7] [8 <./Bram_ScreenshotGH1.png> <./Bram_ScreenshotSkype1.png>] [9 <./Bram_Sc
-reenshotGH2.png> <./Bram_ScreenshotSkype2.png>]
-<Bram_ScreenshotSkype3.png, id=57, 79.04532pt x 47.42719pt>
+ [8] [9 <./Bram_ScreenshotGH1.png> <./Bram_ScreenshotSkype1.png>] [10 <./Bram_S
+creenshotGH2.png> <./Bram_ScreenshotSkype2.png>] <Bram_ScreenshotSkype3.png, id
+=60, 79.04532pt x 47.42719pt>
 File: Bram_ScreenshotSkype3.png Graphic file (type png)
 
 <use Bram_ScreenshotSkype3.png>
-Package pdftex.def Info: Bram_ScreenshotSkype3.png used on input line 182.
+Package pdftex.def Info: Bram_ScreenshotSkype3.png used on input line 184.
 (pdftex.def)             Requested size: 143.9978pt x 86.41312pt.
 
-<Bram_ScreenshotGH3.png, id=58, 74.52844pt x 28.60687pt>
+<Bram_ScreenshotGH3.png, id=61, 74.52844pt x 28.60687pt>
 File: Bram_ScreenshotGH3.png Graphic file (type png)
 
 <use Bram_ScreenshotGH3.png>
-Package pdftex.def Info: Bram_ScreenshotGH3.png used on input line 188.
+Package pdftex.def Info: Bram_ScreenshotGH3.png used on input line 190.
 (pdftex.def)             Requested size: 143.9978pt x 55.28117pt.
- [10 <./Bram_ScreenshotSkype3.png>]
-Overfull \hbox (5.85211pt too wide) in paragraph at lines 195--202
+ [11 <./Bram_ScreenshotSkype3.png>]
+Overfull \hbox (5.85211pt too wide) in paragraph at lines 197--204
 \OT1/cmr/m/n/10.95 Als men als bron-domein de mo-biele tele-foon neemt zijn er 
 nog meer metaforen.
  []
 
-[11 <./Bram_ScreenshotGH3.png>]
-<Dylan_HNieuwGesprek.png, id=67, 412.54124pt x 35.53275pt>
+[12 <./Bram_ScreenshotGH3.png>]
+<Dylan_HNieuwGesprek.png, id=71, 412.54124pt x 35.53275pt>
 File: Dylan_HNieuwGesprek.png Graphic file (type png)
 
 <use Dylan_HNieuwGesprek.png>
-Package pdftex.def Info: Dylan_HNieuwGesprek.png used on input line 210.
+Package pdftex.def Info: Dylan_HNieuwGesprek.png used on input line 212.
 (pdftex.def)             Requested size: 323.9978pt x 27.9068pt.
 
-<Dylan_SZoeken.png, id=68, 178.266pt x 80.7015pt>
+<Dylan_SZoeken.png, id=72, 178.266pt x 80.7015pt>
 File: Dylan_SZoeken.png Graphic file (type png)
  <use Dylan_SZoeken.png>
-Package pdftex.def Info: Dylan_SZoeken.png used on input line 216.
+Package pdftex.def Info: Dylan_SZoeken.png used on input line 218.
 (pdftex.def)             Requested size: 143.9978pt x 65.193pt.
 
-<Dylan_STips.png, id=69, 446.8695pt x 199.34476pt>
+<Dylan_STips.png, id=73, 446.8695pt x 199.34476pt>
 File: Dylan_STips.png Graphic file (type png)
  <use Dylan_STips.png>
-Package pdftex.def Info: Dylan_STips.png used on input line 222.
+Package pdftex.def Info: Dylan_STips.png used on input line 224.
 (pdftex.def)             Requested size: 323.9978pt x 144.53796pt.
 
-<Dylan_SFeedbackGesprek.png, id=70, 298.86656pt x 149.8097pt>
+<Dylan_SFeedbackGesprek.png, id=74, 298.86656pt x 149.8097pt>
 File: Dylan_SFeedbackGesprek.png Graphic file (type png)
 
 <use Dylan_SFeedbackGesprek.png>
-Package pdftex.def Info: Dylan_SFeedbackGesprek.png used on input line 230.
+Package pdftex.def Info: Dylan_SFeedbackGesprek.png used on input line 232.
 (pdftex.def)             Requested size: 143.9978pt x 72.17984pt.
 
-<Dylan_HOnline.png, id=71, 36.135pt x 34.32825pt>
+<Dylan_HOnline.png, id=75, 36.135pt x 34.32825pt>
 File: Dylan_HOnline.png Graphic file (type png)
  <use Dylan_HOnline.png>
-Package pdftex.def Info: Dylan_HOnline.png used on input line 236.
+Package pdftex.def Info: Dylan_HOnline.png used on input line 238.
 (pdftex.def)             Requested size: 36.0022pt x 34.204pt.
 
-<Dylan_SStatus.png, id=72, 198.7425pt x 122.25674pt>
+<Dylan_SStatus.png, id=76, 198.7425pt x 122.25674pt>
 File: Dylan_SStatus.png Graphic file (type png)
  <use Dylan_SStatus.png>
-Package pdftex.def Info: Dylan_SStatus.png used on input line 242.
+Package pdftex.def Info: Dylan_SStatus.png used on input line 244.
 (pdftex.def)             Requested size: 143.9978pt x 88.58257pt.
 
-[12 <./Dylan_HNieuwGesprek.png> <./Dylan_SZoeken.png>]
-<Dylan_SHIcoontjes.png, id=79, 383.18156pt x 127.22531pt>
+[13 <./Dylan_HNieuwGesprek.png> <./Dylan_SZoeken.png>]
+<Dylan_SHIcoontjes.png, id=82, 383.18156pt x 127.22531pt>
 File: Dylan_SHIcoontjes.png Graphic file (type png)
 
 <use Dylan_SHIcoontjes.png>
-Package pdftex.def Info: Dylan_SHIcoontjes.png used on input line 250.
+Package pdftex.def Info: Dylan_SHIcoontjes.png used on input line 252.
 (pdftex.def)             Requested size: 143.9978pt x 47.81032pt.
- [13 <./Dylan_STips.png>] [14 <./Dylan_SFeedbackGesprek.png> <./Dylan_HOnline.p
+ [14 <./Dylan_STips.png>] [15 <./Dylan_SFeedbackGesprek.png> <./Dylan_HOnline.p
 ng> <./Dylan_SStatus.png>]
-<Dylan_HChat.png, id=90, 160.80075pt x 78.2925pt>
+<Dylan_HChat.png, id=93, 160.80075pt x 78.2925pt>
 File: Dylan_HChat.png Graphic file (type png)
  <use Dylan_HChat.png>
-Package pdftex.def Info: Dylan_HChat.png used on input line 258.
+Package pdftex.def Info: Dylan_HChat.png used on input line 260.
 (pdftex.def)             Requested size: 143.9978pt x 70.11255pt.
 
-<Dylan_SHMetafoor.png, id=91, 184.43906pt x 115.93312pt>
+<Dylan_SHMetafoor.png, id=94, 184.43906pt x 115.93312pt>
 File: Dylan_SHMetafoor.png Graphic file (type png)
 
 <use Dylan_SHMetafoor.png>
-Package pdftex.def Info: Dylan_SHMetafoor.png used on input line 268.
+Package pdftex.def Info: Dylan_SHMetafoor.png used on input line 270.
 (pdftex.def)             Requested size: 143.9978pt x 90.51237pt.
- [15 <./Dylan_SHIcoontjes.png> <./Dylan_HChat.png>]
-[16 <./Dylan_SHMetafoor.png>]
-Overfull \hbox (7.94066pt too wide) in paragraph at lines 277--278
+ [16 <./Dylan_SHIcoontjes.png> <./Dylan_HChat.png>]
+[17 <./Dylan_SHMetafoor.png>]
+Overfull \hbox (7.94066pt too wide) in paragraph at lines 279--280
 \OT1/cmr/m/n/10.95 stand-pun-ten samen-bren-gen in deze con-clusie. In deze par
 a-graaf wordt dezelfde
  []
 
-<Samen_SkypeTabblad.png, id=99, 205.5178pt x 127.97812pt>
+<Samen_SkypeTabblad.png, id=102, 205.5178pt x 127.97812pt>
 File: Samen_SkypeTabblad.png Graphic file (type png)
 
 <use Samen_SkypeTabblad.png>
-Package pdftex.def Info: Samen_SkypeTabblad.png used on input line 284.
+Package pdftex.def Info: Samen_SkypeTabblad.png used on input line 286.
 (pdftex.def)             Requested size: 143.9978pt x 89.66803pt.
 
-<Samen_HangoutsNew.png, id=100, 499.8675pt x 97.86563pt>
+<Samen_HangoutsNew.png, id=103, 499.8675pt x 97.86563pt>
 File: Samen_HangoutsNew.png Graphic file (type png)
 
 <use Samen_HangoutsNew.png>
-Package pdftex.def Info: Samen_HangoutsNew.png used on input line 294.
+Package pdftex.def Info: Samen_HangoutsNew.png used on input line 296.
 (pdftex.def)             Requested size: 143.9978pt x 28.19214pt.
- [17] [18 <./Samen_SkypeTabblad.png> <./Samen_HangoutsNew.png>]
-<Samen_SkypeGrootChatvenster.png, id=110, 295.70474pt x 147.55125pt>
+ [18] [19 <./Samen_SkypeTabblad.png> <./Samen_HangoutsNew.png>]
+<Samen_SkypeGrootChatvenster.png, id=113, 295.70474pt x 147.55125pt>
 File: Samen_SkypeGrootChatvenster.png Graphic file (type png)
 
 <use Samen_SkypeGrootChatvenster.png>
-Package pdftex.def Info: Samen_SkypeGrootChatvenster.png used on input line 324
+Package pdftex.def Info: Samen_SkypeGrootChatvenster.png used on input line 326
 .
 (pdftex.def)             Requested size: 216.0022pt x 107.7813pt.
- [19] [20 <./Samen_SkypeGrootChatvenster.png>] [21] (Taak_2.aux) ) 
+ [20] [21 <./Samen_SkypeGrootChatvenster.png>] [22] (Taak_2.aux) ) 
 Here is how much of TeX's memory you used:
- 1372 strings out of 493698
- 19689 string characters out of 3141994
- 76717 words of memory out of 3000000
+ 1375 strings out of 493698
+ 19713 string characters out of 3141994
+ 76719 words of memory out of 3000000
  4703 multiletter control sequences out of 15000+200000
  10054 words of font info for 35 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
@@ -323,9 +326,9 @@ es/LaTeX/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/Program Files
 LaTeX/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Program Files/LaT
 eX/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Program Files/LaTeX/
 MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Taak_2.pdf (22 pages, 758643 bytes).
+Output written on Taak_2.pdf (23 pages, 761939 bytes).
 PDF statistics:
- 141 PDF objects out of 1000 (max. 8388607)
+ 144 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  141 words of extra memory for PDF output out of 10000 (max. 10000000)
 
