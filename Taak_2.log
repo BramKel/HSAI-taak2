@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.10.5)  18 OCT 2016 13:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.10.5)  18 OCT 2016 15:08
 entering extended mode
 **Taak_2.tex
 (Taak_2.tex
@@ -63,11 +63,7 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \float@box=\box26
 \@float@everytoks=\toks16
 \@floatcapt=\box27
-) (Taak_2.aux
-
-LaTeX Warning: Label `fig:HChat' multiply defined.
-
-)
+) (Taak_2.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
 LaTeX Font Info:    ... okay on input line 16.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
@@ -80,7 +76,8 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
 LaTeX Font Info:    ... okay on input line 16.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
 LaTeX Font Info:    ... okay on input line 16.
- ("D:\Program Files\LaTeX\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+
+("D:\Program Files\LaTeX\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count89
 \scratchdimen=\dimen105
@@ -275,20 +272,16 @@ File: Dylan_HChat.png Graphic file (type png)
  <use Dylan_HChat.png>
 Package pdftex.def Info: Dylan_HChat.png used on input line 258.
 (pdftex.def)             Requested size: 143.9978pt x 70.11255pt.
-File: Dylan_HChat.png Graphic file (type png)
 
-<use Dylan_HChat.png>
-Package pdftex.def Info: Dylan_HChat.png used on input line 268.
-(pdftex.def)             Requested size: 143.9978pt x 70.11255pt.
- <Dylan_SHMetafoor.png, id=91, 184.43906pt x 115.93312pt>
+<Dylan_SHMetafoor.png, id=91, 184.43906pt x 115.93312pt>
 File: Dylan_SHMetafoor.png Graphic file (type png)
 
 <use Dylan_SHMetafoor.png>
-Package pdftex.def Info: Dylan_SHMetafoor.png used on input line 274.
+Package pdftex.def Info: Dylan_SHMetafoor.png used on input line 268.
 (pdftex.def)             Requested size: 143.9978pt x 90.51237pt.
  [15 <./Dylan_SHIcoontjes.png> <./Dylan_HChat.png>]
 [16 <./Dylan_SHMetafoor.png>]
-Overfull \hbox (7.94066pt too wide) in paragraph at lines 283--284
+Overfull \hbox (7.94066pt too wide) in paragraph at lines 277--278
 \OT1/cmr/m/n/10.95 stand-pun-ten samen-bren-gen in deze con-clusie. In deze par
 a-graaf wordt dezelfde
  []
@@ -297,38 +290,42 @@ a-graaf wordt dezelfde
 File: Samen_SkypeTabblad.png Graphic file (type png)
 
 <use Samen_SkypeTabblad.png>
-Package pdftex.def Info: Samen_SkypeTabblad.png used on input line 290.
+Package pdftex.def Info: Samen_SkypeTabblad.png used on input line 284.
 (pdftex.def)             Requested size: 143.9978pt x 89.66803pt.
 
 <Samen_HangoutsNew.png, id=100, 499.8675pt x 97.86563pt>
 File: Samen_HangoutsNew.png Graphic file (type png)
 
 <use Samen_HangoutsNew.png>
-Package pdftex.def Info: Samen_HangoutsNew.png used on input line 300.
+Package pdftex.def Info: Samen_HangoutsNew.png used on input line 294.
 (pdftex.def)             Requested size: 143.9978pt x 28.19214pt.
- [17] [18 <./Samen_SkypeTabblad.png> <./Samen_HangoutsNew.png>] [19] (Taak_2.au
-x)
+ [17] [18 <./Samen_SkypeTabblad.png> <./Samen_HangoutsNew.png>]
+<Samen_SkypeGrootChatvenster.png, id=110, 295.70474pt x 147.55125pt>
+File: Samen_SkypeGrootChatvenster.png Graphic file (type png)
 
-LaTeX Warning: There were multiply-defined labels.
-
- ) 
+<use Samen_SkypeGrootChatvenster.png>
+Package pdftex.def Info: Samen_SkypeGrootChatvenster.png used on input line 324
+.
+(pdftex.def)             Requested size: 216.0022pt x 107.7813pt.
+ [19] [20 <./Samen_SkypeGrootChatvenster.png>] [21] (Taak_2.aux) ) 
 Here is how much of TeX's memory you used:
- 1366 strings out of 493698
- 19488 string characters out of 3141994
- 76746 words of memory out of 3000000
- 4698 multiletter control sequences out of 15000+200000
+ 1372 strings out of 493698
+ 19689 string characters out of 3141994
+ 76717 words of memory out of 3000000
+ 4703 multiletter control sequences out of 15000+200000
  10054 words of font info for 35 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  27i,6n,19p,1479b,252s stack positions out of 5000i,500n,10000p,200000b,50000s
-<D:/Program Files/LaTeX/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
-<D:/Program Files/LaTeX/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D
-:/Program Files/LaTeX/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><D:
-/Program Files/LaTeX/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Pr
-ogram Files/LaTeX/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Progr
-am Files/LaTeX/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Taak_2.pdf (20 pages, 749689 bytes).
+<D:/Program F
+iles/LaTeX/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/Program Fil
+es/LaTeX/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/Program Files
+/LaTeX/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><D:/Program Files/
+LaTeX/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Program Files/LaT
+eX/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Program Files/LaTeX/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on Taak_2.pdf (22 pages, 758643 bytes).
 PDF statistics:
- 133 PDF objects out of 1000 (max. 8388607)
+ 141 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 136 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 141 words of extra memory for PDF output out of 10000 (max. 10000000)
 
