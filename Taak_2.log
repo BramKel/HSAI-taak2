@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.10.11)  17 OCT 2016 16:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.10.5)  18 OCT 2016 13:01
 entering extended mode
-**./Taak_2.tex
+**Taak_2.tex
 (Taak_2.tex
-LaTeX2e <2016/03/31> patch level 3
-Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+LaTeX2e <2014/05/01>
+Babel <3.9l> and hyphenation patterns for 68 languages loaded.
+("D:\Program Files\LaTeX\MiKTeX 2.9\tex\latex\base\article.cls"
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo"
+("D:\Program Files\LaTeX\MiKTeX 2.9\tex\latex\base\size11.clo"
 File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -21,42 +21,42 @@ File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+("D:\Program Files\LaTeX\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+("D:\Program Files\LaTeX\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
-Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
+("D:\Program Files\LaTeX\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
-Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+("D:\Program Files\LaTeX\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
-File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+("D:\Program Files\LaTeX\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
-Package graphics Info: Driver file: pdftex.def on input line 99.
+Package graphics Info: Driver file: pdftex.def on input line 91.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
-File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
+("D:\Program Files\LaTeX\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+("D:\Program Files\LaTeX\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+("D:\Program Files\LaTeX\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count87
 ))
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\parskip.sty"
+("D:\Program Files\LaTeX\MiKTeX 2.9\tex\latex\ltxmisc\parskip.sty"
 Package: parskip 2001/04/09 non-zero parskip adjustments
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+("D:\Program Files\LaTeX\MiKTeX 2.9\tex\latex\float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count88
 \float@exts=\toks15
@@ -67,9 +67,10 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 
 LaTeX Warning: Label `fig:callicons' multiply defined.
 
-)
-\openout1 = `Taak_2.aux'.
 
+LaTeX Warning: Label `fig:HChat' multiply defined.
+
+)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
 LaTeX Font Info:    ... okay on input line 16.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
@@ -82,7 +83,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
 LaTeX Font Info:    ... okay on input line 16.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
 LaTeX Font Info:    ... okay on input line 16.
- ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+ ("D:\Program Files\LaTeX\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count89
 \scratchdimen=\dimen105
@@ -95,50 +96,6 @@ LaTeX Font Info:    ... okay on input line 16.
 \MPnumerator=\count93
 \makeMPintoPDFobject=\count94
 \everyMPtoPDFconversion=\toks18
-) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
-Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
-Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-)
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
-Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
-)
-Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-))
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
-Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-)))
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-38.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 456.
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 37.
@@ -146,14 +103,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 37.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 37.
-
-<uhasselt-logo.jpg, id=1, 1185.42876pt x 342.27875pt>
+ <uhasselt-logo.jpg, id=1, 1185.42876pt x 342.27875pt>
 File: uhasselt-logo.jpg Graphic file (type jpg)
- <use uhasselt-logo.jpg>
+
+<use uhasselt-logo.jpg>
 Package pdftex.def Info: uhasselt-logo.jpg used on input line 48.
 (pdftex.def)             Requested size: 85.35826pt x 24.64613pt.
-
-[1
+ [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./uhasselt-logo.jpg>]
 Overfull \hbox (0.71172pt too wide) in paragraph at lines 53--54
@@ -326,48 +282,60 @@ File: Dylan_HChat.png Graphic file (type png)
 Package pdftex.def Info: Dylan_HChat.png used on input line 259.
 (pdftex.def)             Requested size: 143.9978pt x 70.11255pt.
 
-[15 <./Dylan_SHIcoontjes.png> <./Dylan_HChat.png>] [16]
-Overfull \hbox (7.94066pt too wide) in paragraph at lines 271--272
+[15 <./Dylan_SHIcoontjes.png> <./Dylan_HChat.png>]
+File: Dylan_HChat.png Graphic file (type png)
+ <use Dylan_HChat.png>
+Package pdftex.def Info: Dylan_HChat.png used on input line 269.
+(pdftex.def)             Requested size: 143.9978pt x 70.11255pt.
+
+<Dylan_SHMetafoor.png, id=95, 184.43906pt x 115.93312pt>
+File: Dylan_SHMetafoor.png Graphic file (type png)
+
+<use Dylan_SHMetafoor.png>
+Package pdftex.def Info: Dylan_SHMetafoor.png used on input line 275.
+(pdftex.def)             Requested size: 143.9978pt x 90.51237pt.
+ [16]
+Overfull \hbox (7.94066pt too wide) in paragraph at lines 284--285
 \OT1/cmr/m/n/10.95 stand-pun-ten samen-bren-gen in deze con-clusie. In deze par
 a-graaf wordt dezelfde
  []
 
-<Samen_SkypeTabblad.png, id=98, 205.5178pt x 127.97812pt>
+<Samen_SkypeTabblad.png, id=99, 205.5178pt x 127.97812pt>
 File: Samen_SkypeTabblad.png Graphic file (type png)
 
 <use Samen_SkypeTabblad.png>
-Package pdftex.def Info: Samen_SkypeTabblad.png used on input line 278.
+Package pdftex.def Info: Samen_SkypeTabblad.png used on input line 291.
 (pdftex.def)             Requested size: 143.9978pt x 89.66803pt.
 
-<Samen_HangoutsNew.png, id=99, 499.8675pt x 97.86563pt>
+<Samen_HangoutsNew.png, id=100, 499.8675pt x 97.86563pt>
 File: Samen_HangoutsNew.png Graphic file (type png)
 
 <use Samen_HangoutsNew.png>
-Package pdftex.def Info: Samen_HangoutsNew.png used on input line 288.
+Package pdftex.def Info: Samen_HangoutsNew.png used on input line 301.
 (pdftex.def)             Requested size: 143.9978pt x 28.19214pt.
- [17] [18 <./Samen_SkypeTabblad.png> <./Samen_HangoutsNew.png>] [19] (Taak_2.au
-x)
+ [17 <./Dylan_SHMetafoor.png>] [18 <./Samen_SkypeTabblad.png> <./Samen_Hangouts
+New.png>] [19] [20] (Taak_2.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 1718 strings out of 493334
- 25530 string characters out of 3139254
- 87079 words of memory out of 3000000
- 5225 multiletter control sequences out of 15000+200000
+ 1365 strings out of 493698
+ 19476 string characters out of 3141994
+ 74738 words of memory out of 3000000
+ 4697 multiletter control sequences out of 15000+200000
  10054 words of font info for 35 fonts, out of 3000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 40i,6n,25p,1481b,256s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
-ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
-les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
-1/public/amsfonts/cm/cmti12.pfb>
-Output written on Taak_2.pdf (20 pages, 750316 bytes).
+ 1025 hyphenation exceptions out of 8191
+ 27i,6n,19p,1479b,252s stack positions out of 5000i,500n,10000p,200000b,50000s
+<D:/Program Files/LaTeX/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
+<D:/Program Files/LaTeX/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D
+:/Program Files/LaTeX/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><D:
+/Program Files/LaTeX/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Pr
+ogram Files/LaTeX/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Progr
+am Files/LaTeX/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on Taak_2.pdf (21 pages, 749867 bytes).
 PDF statistics:
- 132 PDF objects out of 1000 (max. 8388607)
+ 136 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 131 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 136 words of extra memory for PDF output out of 10000 (max. 10000000)
 
